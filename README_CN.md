@@ -1,4 +1,4 @@
-# Flutter UI - Food
+# Flutter UI - Natur Furniture
 
 [English](README.md)------中文
 
@@ -18,11 +18,11 @@ YouTube : [观看地址]()
 
 
 
-### Food 设计稿
+### Natur Furniture 设计稿
 
 ![00](00.png)
 
-### Food 最终完成
+### Natur Furniture 最终完成
 
 <div align=center> <img src = '01.png' width = '300' >  <img src = '02.png' width = '300' ></div>
 
