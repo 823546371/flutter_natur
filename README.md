@@ -1,4 +1,4 @@
-# Flutter UI - Food
+# Flutter UI - Natur Furniture
 
 English------[中文](README_CN.md)
 
@@ -18,11 +18,11 @@ Bilibili : [Watch it on Bilibili]()
 
 
 
-### Food Design UI
+### Natur Furniture Design UI
 
 ![00](00.png)
 
-### Food Final UI
+### Natur Furniture Final UI
 
 <div align=center> <img src = '01.png' width = '300' >  <img src = '02.png' width = '300' ></div>
 
