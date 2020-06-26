@@ -8,9 +8,9 @@ There are two pages, page and detail. Page mainly includes search, sorting metho
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/cpwjz6LcZcU)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1K5411Y7WU)
 
 ### UI 
 
